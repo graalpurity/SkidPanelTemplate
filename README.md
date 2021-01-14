@@ -2,6 +2,7 @@
 SkidPanelTemplate is a template for a DDOS template (Note, this does NOT include a DDOS API. You will need to purchase one with your own money)
 # Requirements
 * Visual Studio
+* DDOS API
 # Usage
 1. Open the project
 2. Add an API 
