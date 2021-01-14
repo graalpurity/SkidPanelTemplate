@@ -1,5 +1,5 @@
 # What is SkidPanelTemplate?
-SkidPanelTemplate is a template for a DDOS template (Note, this does NOT include a DDOS API. You will need to purchase one with your own money)
+SkidPanelTemplate is a template for a DDOS template (Note, this does NOT include a DDOS API. You will need to purchase one with your own money). So in other words, this is just a UI
 # Requirements
 * Visual Studio
 * DDOS API
