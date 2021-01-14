@@ -8,3 +8,5 @@ SkidPanelTemplate is a template for a DDOS template (Note, this does NOT include
 2. Add an API 
 3. Edit the project to work with your API
 4. Profit.
+# Errors
+1. GunaUI - Simple fix, your Guna did not install correctly with the project, download GunaUI2 in the Nuget Package Manager
