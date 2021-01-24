@@ -122,7 +122,7 @@ namespace Skid_Panel_Template_V2.Handler
                     client.SetPresence(new RichPresence()
                     {
                         Details = $"Settings panel | Topmost: {MainFrm.topMost}",
-                        State = $"Frying skids",
+                        State = $"Idle",
                         Assets = new Assets()
                         {
                             LargeImageKey = "c_",
